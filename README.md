@@ -12,25 +12,27 @@ A brief description of my Task.
 ## Task 1: Compare Two JSON Objects
 
 ### Description
-This task involves comparing two JSON objects with the same properties without considering the order of the properties.
+- This task involves comparing two JSON objects with the same properties without considering the order of the properties.
 
 ### Solution
-The solution can be found in [compare-json.js](../day3task/Object/script.js). The code is to achieve the desired comparison.
+The solution can be found in Object folder. The code is to achieve the desired comparison.
 
 ## Task 2: Display Flags Using REST Countries API
 
 ### Description
-This task involves making a request to the REST Countries API to fetch country flags and displaying them in the console using XMLHttpRequest.
+- This task involves making a request to the REST Countries API to fetch country flags and displaying them in the console using XMLHttpRequest.
 
 ### Solution
-The solution can be found in [display-flags.js](../day3task/flags/script.js). The code uses XMLHttpRequest to fetch country flags and logs them to the console.
+- The solution can be found in flags folder. 
+  - The code uses XMLHttpRequest to fetch country flags and logs them to the console.
 
 ## Task 3: Display Country Information Using REST Countries API
 
 ### Description
-This task involves making a request to the REST Countries API to fetch and display country names, regions, subregions, and populations.
+- This task involves making a request to the REST Countries API to fetch and display country names, regions, subregions, and populations.
 
 ### Solution
-The solution can be found in [display-country-info.js](../day3task/country/script.js). The code uses XMLHttpRequest to fetch country information and logs it to the console.
+- The solution can be found in Country folder. 
+  - The code uses XMLHttpRequest to fetch country information and logs it to the console.
 
 
